@@ -1,0 +1,4 @@
+Flask==0.10.1
+
+# App Server for both Production and Development
+gunicorn==19.4.5
